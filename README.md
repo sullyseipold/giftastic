@@ -1,6 +1,6 @@
 # giftastic
 
-##About
+## About this App
 
 * Users click topic buttons to display 10 static images of GIF's for that topic.
 * 10 default topic buttons are populated on the initial page load.
